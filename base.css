@@ -23,8 +23,10 @@ footer p{
 }
 /* navbar */
 .topnav {
-    display: flex; 
+    display: flex;
     flex-flow: row wrap;
+    position: sticky;
+    top: 0;
     justify-content: center;
     width: 100.25%;
     padding-bottom: 10px;
