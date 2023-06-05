@@ -3,13 +3,15 @@ h1,h2{
     width: 90%;
     text-align: center;
 }
-
+.row{
+    display: inline-block;
+}
 .column {
     float: left;
-    width: 33.3%;
+    width: 80%;
     margin-bottom: 16px;
     margin-top: 16px;
-    padding: 5px 125px;
+    padding: 0px 75px;
 }
 
 
@@ -36,12 +38,11 @@ img{
     width: 300px;
     height: 300px;
     cursor: pointer;
-    transition: 0.3s;
+
 }
 figcaption {
     background-color: #222;
     color: #fff;
     font: italic smaller sans-serif;
-    padding: 3px;
     text-align: center;
 }
