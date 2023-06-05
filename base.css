@@ -21,6 +21,12 @@ footer p{
     color: rgb(234, 234, 234);
     font-size: 20px;
 }
+h1{
+    text-decoration: underline;
+    text-decoration-color: aliceblue;
+    text-align: center;
+    font-size: 30px;
+}
 /* navbar */
 .topnav {
     display: flex;
