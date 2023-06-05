@@ -26,7 +26,7 @@ footer p{
     display: flex; 
     flex-flow: row wrap;
     justify-content: center;
-    width: 100%;
+    width: 100.25%;
     padding-bottom: 10px;
     background-color: #333;
     overflow: hidden;
@@ -36,9 +36,9 @@ footer p{
     float: left;
     color: #f2f2f2;
     text-align: center;
-    padding: 14px 16px;
+    padding: 14px 18px;
     text-decoration: none;
-    font-size: 17px;
+    font-size: 20px;
 }
 
 .topnav a:hover {
