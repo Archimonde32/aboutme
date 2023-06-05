@@ -1,5 +1,10 @@
 /* theme profil */
-
+h1{
+    text-decoration: underline;
+    text-decoration-color: aliceblue;
+    text-align: center;
+    font-size: 30px;
+}
 .column {
     float: left;
     width: 33.3%;
